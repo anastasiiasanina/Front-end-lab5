@@ -1,0 +1,49 @@
+.form {
+  display: flex;
+}
+
+.input {
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+  width: 50%;
+}
+
+button {
+  margin-top: 10px;
+  color: brown;
+  background-color: rgb(245, 207, 158);
+  border: 1px solid brown;
+  border-radius: 10px;
+  width: 20%;
+  height: 30px;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: rgba(245, 207, 158, 0.558);
+}
+
+input {
+  width: 30%;
+  height: 30px;
+  margin: 10px;
+  color: brown;
+  border-radius: 30px;
+  font-family: 'Century Gothic';
+  border: 1px solid orange;
+  padding: 5px;
+}
+
+label {
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  color: brown;
+}
+
+.output {
+  display: none;
+  width: 50%;
+}

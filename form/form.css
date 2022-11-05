@@ -46,4 +46,14 @@ label {
 .output {
   display: none;
   width: 50%;
+  position: relative;
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Century Gothic';
+  color: brown;
+}
+
+span {
+  font-weight: bold;
+  margin-right: 5px;
 }

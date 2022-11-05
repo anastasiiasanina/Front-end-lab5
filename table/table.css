@@ -1,0 +1,23 @@
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  margin: auto;
+  margin-top: 50px;
+}
+
+td {
+  text-align: center;
+  padding: 15px;
+  border: 1px solid black;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.color{
+  width: 20%;;
+  margin: auto;
+  margin-top: 50px;
+}
